@@ -3,8 +3,7 @@ This repository contains code examples and resources for portfolio diversificati
 
 # Requirements
 To run the code in this repository, you need to have Python 3.6 or later installed, as well as the following libraries:
-
-# InvestOps
+* InvestOps
 * pandas
 * numpy
 * matplotlib
