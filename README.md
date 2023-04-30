@@ -9,11 +9,6 @@ To run the code in this repository, you need to have Python 3.6 or later install
 * numpy
 * matplotlib
 
-You can install these libraries using pip, by running the following command:
-
-Copy code
-pip install investops pandas numpy matplotlib
-
 # Getting Started
 To get started with the InvestOps library, you can check out the examples folder, which contains Jupyter notebooks with code examples and explanations for different aspects of portfolio optimization and risk management.
 
